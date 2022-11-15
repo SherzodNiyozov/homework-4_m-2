@@ -1,0 +1,29 @@
+.footer {
+  background: linear-gradient(76.02deg, #FF9D2D 1.66%, #FFD877 93.21%);
+  padding: 45px;
+  margin-top: 130px;
+}
+
+.footer__inner {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.footer__text {
+  width: 269px;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 160%;
+  color: #000000;
+}
+
+.footer__list {
+  display: flex;
+  gap: 40px;
+}
+
+.footer__linkbox {
+  display: flex;
+  gap: 20px;
+}

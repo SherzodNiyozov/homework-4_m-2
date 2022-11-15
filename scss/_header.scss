@@ -1,0 +1,27 @@
+.header__inner {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 30px 0;
+}
+
+
+.nav__list {
+  display: flex;
+  justify-content: space-between;
+  gap: 40px;
+}
+
+.nav__link {
+  text-decoration: none;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 23px;
+  color: #000000;
+}
+
+.nav__link:hover {
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 23px;
+}
